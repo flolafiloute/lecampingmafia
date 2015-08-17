@@ -945,5 +945,17 @@
     "season": "1",
     "pitch": "",
     "connect": {}
+  },
+  {
+    "name": "Filoute",
+    "website": "www.filoute.com",
+    "status": "active",
+    "season": "7",
+    "pitch": "Filoute curates content to help you (re)discover the pleasure to create your own clothes",
+    "connect": {
+        "mail": "communaute@filoute.com",
+        "facebook": "www.facebook.com/pages/Filoute/317659605091302",
+        "twitter": "https://twitter.com/filoute_com"
+    }
   }
 ]
